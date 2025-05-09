@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![kwmt's github stats](https://github-readme-stats.vercel.app/api?username=kwmt&count_private=true&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwmt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwmt&layout=compact&hide=python,html,c)
 
 <!--
 **kwmt/kwmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
